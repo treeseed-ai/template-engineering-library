@@ -16,3 +16,4 @@ The Engineering Template generates portable, governed, buildable TreeSeed projec
 
 It owns reusable project source structure only. Project creation, repository authority, and TreeDX adoption remain with their owning platform services.
 
+TreeDX is the sole authoring and publication authority for this objective.
